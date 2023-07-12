@@ -33,3 +33,5 @@ The dataset used was:  US airline twitter dataset (available on Kaggle)
 
 The lexicons have been uploaded in this repository.
 
+In order to use the code for a different dataset, the data can be mounted via drive in CMD 2 and 3, while in CMD 4, the variables have to be assigned with a different column name for the dataset.
+
